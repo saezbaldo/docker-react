@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Traeme a Wanda Nara sin Geraldina pero con Zaira
+          learn react
         </a>
       </header>
     </div>
