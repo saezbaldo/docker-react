@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed and now I'm not
+          I was changed from newbranch
         </a>
       </header>
     </div>
